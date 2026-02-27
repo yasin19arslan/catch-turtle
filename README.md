@@ -19,4 +19,4 @@ Ekranın farklı yerlerinde hızla beliren kaplumbağayı yakalamaya çalışın
 10 saniye içinde yapabildiğiniz en yüksek skoru yapın!
 
 
-Geliştiren: yasin19arslan
+Geliştiren: Yasin Arslan
